@@ -1,0 +1,7 @@
+{
+    "output":{
+        "hello_json" : {
+            "value" : "Hello from json!"
+        }
+    }
+}
